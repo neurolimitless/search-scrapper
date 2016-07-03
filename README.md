@@ -11,7 +11,7 @@ Scrapper for next search engines:
 
 1. git clone https://github.com/swistjkee/search-scrapper.git
 2. mvn assembly:assembly 
-3. create 'proxy.txt' near .jar file and add proxie here to enable proxy mode.
+3. create 'proxy.txt' near .jar file and add proxy here to enable proxy mode.
 
 Proxies must be in next format:
 <b>ip:port</b>
